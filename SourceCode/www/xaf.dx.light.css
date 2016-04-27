@@ -1,0 +1,20 @@
+﻿.dx-navigation-item {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.dx-device-mobile .dx-field:last-of-type {
+    margin: 0 0 10px 0;
+}
+
+.dx-lookup {
+    height: 50px;
+}
+
+.dx-toolbar-background {
+    background-color: rgba(220,220,220,1);
+}
+
+.xet-fieldset-sigle-column-label {
+    margin-left: 10px;
+}
